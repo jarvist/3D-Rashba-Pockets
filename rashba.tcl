@@ -61,3 +61,7 @@ draw cylinder {0 0 0} {0.500000 -0.500000 0.500000} radius 0.01
 draw cylinder {0 0 0} {0.500000 0.500000 -0.500000} radius 0.01
 draw cylinder {0 0 0} {0.500000 0.500000 0.500000} radius 0.01
 
+draw color white
+draw text {0.0 0.0 0.0} Gamma
+draw text {0.5 0.5 0.5} R
+
