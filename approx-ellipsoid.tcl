@@ -146,7 +146,7 @@ if {[molinfo num] < 1} {
 }
 
 graphics $mol delete all
-graphics $mol material Glossy
+graphics $mol material AOChalky 
 graphics $mol color red
 
 #draw_octahedron $mol {-1.0 0.0 0.0}
