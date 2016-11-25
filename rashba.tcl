@@ -1,6 +1,6 @@
 source "approx-ellipsoid.tcl"
 
-draw color white
+draw color gray 
 draw text {0.0 0.0 0.0} G
 draw text {0.5 0.5 0.5} R
 draw text {0.5 0.5 0.0} M 
